@@ -1,11 +1,5 @@
 **AutoSub**
 
-	AutoSub
- 
-		About
-		How it works
-		Motivation
-		References
 	
 **About**
 
@@ -23,13 +17,13 @@ When I tested the script on my laptop, it took about 40 minutes to generate the 
 
 **Motivation**
 
-	In the age of OTT platforms, there are still some who prefer to download movies/videos from YouTube/Facebook or even torrents rather than stream. I am one of them and on one such occasion, I couldn't find the subtitle file for a particular movie I had downloaded. Then the idea for AutoSub struck me and since I had worked with DeepSpeech previously, I decided to use it.
+In the age of OTT platforms, there are still some who prefer to download movies/videos from YouTube/Facebook or even torrents rather than stream. I am one of them and on one such occasion, I couldn't find the subtitle file for a particular movie I had downloaded. Then the idea for AutoSub struck me and since I had worked with DeepSpeech previously, I decided to use it.
 
 
 **Reference**
 
-	https://github.com/mozilla/DeepSpeech/
+https://github.com/mozilla/DeepSpeech/
           
-    https://github.com/tyiannak/pyAudioAnalysis
+https://github.com/tyiannak/pyAudioAnalysis
           
-	https://deepspeech.readthedocs.io/
+https://deepspeech.readthedocs.io/
